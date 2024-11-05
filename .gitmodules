@@ -1,0 +1,4 @@
+[submodule "extensions/stashkit"]
+	path = extensions/stashkit
+	url = https://github.com/tyssejc/stashkit.git
+    branch = main
